@@ -56,7 +56,7 @@ body {
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
     overflow: hidden;
-    background-image: url(/images/Rectangle\ 12.png);
+    background-image: url(./images/Rectangle\ 12.png);
 }
 
 .v72_534 {
@@ -101,7 +101,7 @@ body {
 .v72_542 {
     width: 45px;
     height: 45px;
-    background: url(/images/heart_wishlist.png);
+    background: url(./images/heart_wishlist.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -200,13 +200,13 @@ body {
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
     overflow: hidden;
-    background-image: url(/images/Rectangle\ 15.png);
+    background-image: url(./images/Rectangle\ 15.png);
 }
 
 .v73_535 {
     width: 45px;
     height: 45px;
-    /* background: url("../images/v73_535.png"); */
+    /* background: url(".../images/v73_535.png"); */
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -305,7 +305,7 @@ body {
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
     overflow: hidden;
-    background-image: url(/images/Rectangle\ 14.png);
+    background-image: url(./images/Rectangle\ 14.png);
 }
 
 .v73_527 {
@@ -321,7 +321,7 @@ body {
     overflow: hidden;
 }
 .v73_527, .v73_535, .v73_543, .v73_559, .v73_551 {
-    background : url(/images/heart_wishlist.png);
+    background : url(./images/heart_wishlist.png);
 }
 
 /* .v73_528 {
@@ -364,7 +364,7 @@ body {
 .v73_539 {
     width: 237px;
     height: 140px;
-    background: url(/images/Rectangle\ 12.png);
+    background: url(./images/Rectangle\ 12.png);
     opacity: 1;
     position: absolute;
     top: 9px;
@@ -418,7 +418,7 @@ body {
 .v73_543 {
     width: 45px;
     height: 45px;
-    /* background: url("../images/v73_543.png"); */
+    /* background: url(".../images/v73_543.png"); */
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -517,13 +517,13 @@ body {
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
     overflow: hidden;
-    background-image: url(/images/Rectangle\ 15.png);
+    background-image: url(./images/Rectangle\ 15.png);
 }
 
 .v73_551 {
     width: 45px;
     height: 45px;
-    /* background: url("../images/v73_551.png"); */
+    /* background: url(".../images/v73_551.png"); */
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -622,13 +622,13 @@ body {
     border-bottom-left-radius: 20px;
     border-bottom-right-radius: 20px;
     overflow: hidden;
-    background-image: url(/images/Rectangle\ 14.png);
+    background-image: url(./images/Rectangle\ 14.png);
 }
 
 .v73_559 {
     width: 45px;
     height: 45px;
-    /* background: url("../images/v73_559.png"); */
+    /* background: url(".../images/v73_559.png"); */
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -663,7 +663,7 @@ body {
 .v104_497 {
     width: 100%;
     height: 224px;
-    background: url("../images/v104_497.png");
+    background: url(".../images/v104_497.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -677,7 +677,7 @@ body {
 .v104_498 {
     width: 887px;
     height: 74px;
-    background: url("../images/v104_498.png");
+    background: url(".../images/v104_498.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -691,7 +691,7 @@ body {
 .v72_526 {
     width: 854px;
     height: 33px;
-    background: url("../images/v72_526.png");
+    background: url(".../images/v72_526.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -770,7 +770,7 @@ body {
 .v71_521 {
     width: 28px;
     height: 20px;
-    background: url(/images/newcomers.png);
+    background: url(./images/newcomers.png);
     opacity: 1;
     position: absolute;
     top: 7px;
@@ -780,7 +780,7 @@ body {
 .v71_522 {
     width: 21px;
     height: 27px;
-    background: url(/images/bestseller.png);
+    background: url(./images/bestseller.png);
     opacity: 1;
     position: absolute;
     top: 3px;
@@ -790,7 +790,7 @@ body {
 .v71_523 {
     width: 26px;
     height: 24px;
-    background: url(/images/Star_Icon.png);
+    background: url(./images/Star_Icon.png);
     opacity: 1;
     position: absolute;
     top: 3px;
@@ -800,7 +800,7 @@ body {
 .v71_524 {
     width: 28px;
     height: 23px;
-    background: url(/images/all.png);
+    background: url(./images/all.png);
     opacity: 1;
     position: absolute;
     top: 6px;
@@ -810,7 +810,7 @@ body {
 .v71_525 {
     width: 25px;
     height: 23px;
-    background: url(/images/promotion.png);
+    background: url(./images/promotion.png);
     opacity: 1;
     position: absolute;
     top: 3px;
@@ -867,7 +867,7 @@ body {
     top: 11px;
     left: 11px;
     overflow: hidden;
-    background-image: url(/images/back_button.png);
+    background-image: url(./images/back_button.png);
 }
 
 .name {
@@ -944,7 +944,7 @@ body {
     position: absolute;
     top: 172px;
     left: 266px;
-    background-image: url(/images/gps.png);
+    background-image: url(./images/gps.png);
 }
 
 .v73_648 {
@@ -972,7 +972,7 @@ body {
 .v73_650 {
     width: 394px;
     height: 110px;
-    background: url("../images/v73_650.png");
+    background: url(".../images/v73_650.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -996,7 +996,7 @@ body {
     border-bottom-left-radius: 10px;
     border-bottom-right-radius: 10px;
     overflow: hidden;
-    background-image: url(/images/burger.png);
+    background-image: url(./images/burger.png);
 }
 
 .v73_640 {
@@ -1041,7 +1041,7 @@ body {
 .v73_643 {
     width: 92px;
     height: 29px;
-    background: url("../images/v73_643.png");
+    background: url(".../images/v73_643.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1116,7 +1116,7 @@ body {
 .v73_638 {
     width: 381px;
     height: 108px;
-    background: url("../images/v73_638.png");
+    background: url(".../images/v73_638.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1263,7 +1263,7 @@ body {
 .v104_505 {
     width: 53px;
     height: 329px;
-    background: url("../images/v104_505.png");
+    background: url(".../images/v104_505.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1283,14 +1283,14 @@ body {
     top: 282px;
     left: 0px;
     overflow: hidden;
-    background-image: url(/images/community.png);
+    background-image: url(./images/community.png);
 
 }
 
 /* .v83_678 {
     width: 23px;
     height: 24px;
-    background: url("../images/v83_678.png");
+    background: url(".../images/v83_678.png");
     opacity: 1;
     position: absolute;
     top: 15px;
@@ -1326,7 +1326,7 @@ body {
     position: absolute;
     top: 52px;
     left: 9px;
-    background-image: url(/images/wish_list.png);
+    background-image: url(./images/wish_list.png);
 
 }
 
@@ -1338,7 +1338,7 @@ body {
     position: absolute;
     top: 105px;
     left: 9px;
-    background-image: url(/images/transcation.png);
+    background-image: url(./images/transcation.png);
 
 }
 
@@ -1350,7 +1350,7 @@ body {
     position: absolute;
     top: 0px;
     left: 9px;
-    background-image: url(/images/dining.png);
+    background-image: url(./images/dining.png);
 }
 
 .v83_672 {
@@ -1362,7 +1362,7 @@ body {
     top: 164px;
     left: 9px;
     overflow: hidden;
-    background-image: url(/images/gift.png);
+    background-image: url(./images/gift.png);
 
 }
 
@@ -1385,7 +1385,7 @@ body {
     top: 225px;
     left: 9px;
     overflow: hidden;
-    background-image: url(/images/wallet.png);
+    background-image: url(./images/wallet.png);
 
 }
 
@@ -1424,7 +1424,7 @@ body {
 .main_60_903 {
     width: 200px;
     height: 80px;
-    background: url("../images/v60_903.png");
+    background: url(".../images/v60_903.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1439,7 +1439,7 @@ body {
 .main_60_904 {
     width: 100%;
     height: 100%;
-    background: url("../images/v60_904.png");
+    background: url(".../images/v60_904.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1459,7 +1459,7 @@ body {
 .main_60_905 {
     width: 43px;
     height: 43px;
-    /* background: url("../images/v60_905.png"); */
+    /* background: url(".../images/v60_905.png"); */
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1473,7 +1473,7 @@ body {
 .main_60_906 {
     width: 60px;
     height: 60px;
-    background: url(/images/apple.png);
+    background: url(./images/apple.png);
     opacity: 1;
     position: absolute;
     top: 0px;
@@ -1503,7 +1503,7 @@ body {
 .main_60_909 {
     width: 100%;
     height: 80px;
-    background: url("../images/v60_909.png");
+    background: url(".../images/v60_909.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1517,7 +1517,7 @@ body {
 .main_60_910 {
     width: 200px;
     height: 80px;
-    background: url("../images/v60_910.png");
+    background: url(".../images/v60_910.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1549,7 +1549,7 @@ body {
 .main_60_912 {
     width: 33px;
     height: 43px;
-    background: url(/images/playstore.png);
+    background: url(./images/playstore.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;

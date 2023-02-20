@@ -20,7 +20,7 @@ body {
 .main_64_740 {
     width: 100%;
     height: 100%;
-    background: url("../images/v64_740.png");
+    background: url(".../images/v64_740.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -45,7 +45,7 @@ body {
 .main_60_894 {
     width: 100%;
     height: 555px;
-    background: url("../images/v60_894.png");
+    background: url(".../images/v60_894.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -83,7 +83,7 @@ body {
 .main_60_898 {
     width: 269px;
     height: 539px;
-    background: url("../images/v60_898.png");
+    background: url(".../images/v60_898.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -118,7 +118,7 @@ body {
 /* .main_60_901 {
     width: 276px;
     height: 556px;
-    background: url("../images/v60_901.png");
+    background: url(".../images/v60_901.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -132,7 +132,7 @@ body {
 .main_60_1398 {
     width: 209px;
     height: 211px;
-    background: url("../images/v60_1398.png");
+    background: url(".../images/v60_1398.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -163,7 +163,7 @@ body {
 .main_60_902 {
     width: 466px;
     height: 362px;
-    background: url("../images/v60_902.png");
+    background: url(".../images/v60_902.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -177,7 +177,7 @@ body {
 .main_60_903 {
     width: 208px;
     height: 80px;
-    background: url("../images/v60_903.png");
+    background: url(".../images/v60_903.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -191,7 +191,7 @@ body {
 .main_60_904 {
     width: 208px;
     height: 80px;
-    background: url("../images/v60_904.png");
+    background: url(".../images/v60_904.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -210,7 +210,7 @@ body {
 .main_60_905 {
     width: 43px;
     height: 43px;
-    background: url("../images/v60_905.png");
+    background: url(".../images/v60_905.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -224,7 +224,7 @@ body {
 .main_60_906 {
     width: 43px;
     height: 43px;
-    background: url(/images/apple.png);
+    background: url(./images/apple.png);
     opacity: 1;
     position: absolute;
     top: 0px;
@@ -262,7 +262,7 @@ body {
 .main_60_909 {
     width: 200px;
     height: 80px;
-    background: url("../images/v60_909.png");
+    background: url(".../images/v60_909.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -276,7 +276,7 @@ body {
 .main_60_910 {
     width: 200px;
     height: 80px;
-    background: url("../images/v60_910.png");
+    background: url(".../images/v60_910.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -308,7 +308,7 @@ body {
 .main_60_912 {
     width: 33px;
     height: 43px;
-    background: url(/images/playstore.png);
+    background: url(./images/playstore.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -373,7 +373,7 @@ body {
 .main_60_1918 {
     width: 100%;
     height: 377px;
-    background: url("../images/v60_1918.png");
+    background: url(".../images/v60_1918.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -387,7 +387,7 @@ body {
 .main_60_1919 {
     width: 70px;
     height: 70px;
-    background: url("../images/v60_1919.png");
+    background: url(".../images/v60_1919.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -401,7 +401,7 @@ body {
 .main_60_1920 {
     width: 70px;
     height: 70px;
-    background: url(/images/arrow_right.png);
+    background: url(./images/arrow_right.png);
     opacity: 1;
     position: absolute;
     top: 0px;
@@ -412,7 +412,7 @@ body {
 /* .main_60_1921 {
     width: 22px;
     height: 28px;
-    background: url("../images/v60_1921.png");
+    background: url(".../images/v60_1921.png");
     opacity: 1;
     position: absolute;
     top: 46px;
@@ -424,7 +424,7 @@ body {
 .main_60_1922 {
     width: 70px;
     height: 70px;
-    background: url("../images/v60_1922.png");
+    background: url(".../images/v60_1922.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -438,7 +438,7 @@ body {
 .main_60_1923 {
     width: 70px;
     height: 70px;
-    background: url(/images/arrow_left.png);
+    background: url(./images/arrow_left.png);
     opacity: 1;
     position: absolute;
     top: 0px;
@@ -449,7 +449,7 @@ body {
 /* .main_60_1924 {
     width: 22px;
     height: 28px;
-    background: url("../images/v60_1924.png");
+    background: url(".../images/v60_1924.png");
     opacity: 1;
     position: absolute;
     top: 46px;
@@ -487,7 +487,7 @@ body {
 .main_60_1927 {
     width: 250px;
     height: 72px;
-    background: url("../images/v60_1927.png");
+    background: url(".../images/v60_1927.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -527,7 +527,7 @@ body {
 .main_60_1930 {
     width: 72px;
     height: 72px;
-    background: url(/images/customer_pic.png);
+    background: url(./images/customer_pic.png);
     opacity: 1;
     position: absolute;
     top: 0px;
@@ -548,7 +548,7 @@ body {
 .main_60_967 {
     width: 100%;
     height: 738px;
-    background: url("../images/v60_967.png");
+    background: url(".../images/v60_967.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -562,7 +562,7 @@ body {
 .main_60_968 {
     width: 664px;
     height: 738px;
-    background: url("../images/v60_968.png");
+    background: url(".../images/v60_968.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -576,7 +576,7 @@ body {
 .main_60_969 {
     width: 598px;
     height: 738px;
-    background: url("../images/v60_969.png");
+    background: url(".../images/v60_969.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -590,7 +590,7 @@ body {
 .main_60_970 {
     width: 598px;
     height: 798px;
-    background-image: url(/images/smily.png);
+    background-image: url(./images/smily.png);
     opacity: 1;
     position: absolute;
     top: 10px;
@@ -601,7 +601,7 @@ body {
 /* .main_60_971 {
     width: 388px;
     height: 655px;
-    background: url("../images/v60_971.png");
+    background: url(".../images/v60_971.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -626,7 +626,7 @@ body {
 /* .main_60_973 {
     width: 408px;
     height: 612px;
-    background: url("../images/v60_973.png");
+    background: url(".../images/v60_973.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -640,7 +640,7 @@ body {
 /* .main_60_974 {
     width: 419px;
     height: 286px;
-    background: url("../images/v60_974.png");
+    background: url(".../images/v60_974.png");
     opacity: 1;
     position: absolute;
     top: 384px;
@@ -651,7 +651,7 @@ body {
 .main_60_975 {
     width: 204px;
     height: 277px;
-    background: url("../images/v60_975.png");
+    background: url(".../images/v60_975.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -681,7 +681,7 @@ body {
 .main_60_977 {
     width: 126px;
     height: 73px;
-    background: url("../images/v60_977.png");
+    background: url(".../images/v60_977.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -696,7 +696,7 @@ body {
 .main_60_978 {
     width: 36px;
     height: 36px;
-    background: url("../images/v60_978.png");
+    background: url(".../images/v60_978.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -749,7 +749,7 @@ body {
 .main_60_982 {
     width: 43px;
     height: 20px;
-    background: url("../images/v60_982.png");
+    background: url(".../images/v60_982.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -806,7 +806,7 @@ body {
 .main_60_987 {
     width: 394px;
     height: 372px;
-    background: url("../images/v60_987.png");
+    background: url(".../images/v60_987.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -820,7 +820,7 @@ body {
 .main_60_988 {
     width: 201px;
     height: 70px;
-    background: url("../images/v60_988.png");
+    background: url(".../images/v60_988.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -915,7 +915,7 @@ body {
 .main_60_995 {
     width: 100%;
     height: 506px;
-    /* background: url("../images/v60_995.png"); */
+    /* background: url(".../images/v60_995.png"); */
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -934,7 +934,7 @@ body {
 .main_60_997 {
     width: 328px;
     height: 341px;
-    background: url("../images/v60_997.png");
+    background: url(".../images/v60_997.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1006,7 +1006,7 @@ body {
 .main_60_1001 {
     width: 93px;
     height: 95px;
-    background-image: url(/images/lockwithcomment.png);
+    background-image: url(./images/lockwithcomment.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: 100% 100%;
@@ -1041,7 +1041,7 @@ body {
 .main_60_1004 {
     width: 328px;
     height: 339px;
-    background: url("../images/v60_1004.png");
+    background: url(".../images/v60_1004.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1113,7 +1113,7 @@ body {
 .main_60_1008 {
     width: 84px;
     height: 98px;
-    background-image: url(/images/truck.png);
+    background-image: url(./images/truck.png);
     background-repeat: no-repeat;
     background-position: center center;
     
@@ -1168,7 +1168,7 @@ body {
 .main_60_1013 {
     width: 327px;
     height: 349px;
-    /* background: url("../images/v60_1013.png"); */
+    /* background: url(".../images/v60_1013.png"); */
     background-repeat: no-repeat;
     background-position: center center;
     /* background-size: cover; */
@@ -1242,7 +1242,7 @@ body {
 .main_60_1018 {
     width: 102px;
     height: 94px;
-    background: url(/images/moneyhand.png);
+    background: url(./images/moneyhand.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1326,7 +1326,7 @@ body {
     display: flex;
     justify-content: center;
     align-content: center;
-    background: url(/images/background.png);
+    background: url(./images/background.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1340,7 +1340,7 @@ body {
 .main_60_1026 {
     width: 100vw;
     height: 520px;
-    background: url("../images/v60_1026.png");
+    background: url(".../images/v60_1026.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1354,7 +1354,7 @@ body {
 .main_60_1027 {
     width: 100%;
     height: 520px;
-    /* background: url("../images/v60_1027.png"); */
+    /* background: url(".../images/v60_1027.png"); */
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1371,7 +1371,7 @@ body {
     align-items: center;
     width: 191px;
     height: 70px;
-    background: url("../images/v60_1028.png");
+    background: url(".../images/v60_1028.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1399,7 +1399,7 @@ body {
 .main_60_1030 {
     width: 100px;
     height: 100px;
-    background: url(/images/ordernow.png);
+    background: url(./images/ordernow.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1415,7 +1415,7 @@ body {
 /* .main_60_1031 {
     width: 70px;
     height: 70px;
-    background:url(/images/ordernow.png);
+    background:url(./images/ordernow.png);
     opacity: 1;
     position: absolute;
     top: 0px;
@@ -1443,7 +1443,7 @@ body {
 
 .main_60_1039 {
     width: 700px;
-    color: url("../images/v60_1039.png");
+    color: url(".../images/v60_1039.png");
     position: absolute;
     top: 66px;
     left: 24px;
@@ -1457,7 +1457,7 @@ body {
 .main_60_1040 {
     width: 214px;
     height: 46px;
-    background: url("../images/v60_1040.png");
+    background: url(".../images/v60_1040.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1471,7 +1471,7 @@ body {
 .main_60_1041 {
     width: 214px;
     height: 46px;
-    background: url("../images/v60_1041.png");
+    background: url(".../images/v60_1041.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1513,7 +1513,7 @@ body {
 /* .main_60_1044 {
     width: 26px;
     height: 24px;
-    background: url("../images/v60_1044.png");
+    background: url(".../images/v60_1044.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1528,7 +1528,7 @@ body {
 /* .main_60_1071 {
     width: 119px;
     height: 168px;
-    background: url("../images/v60_1071.png");
+    background: url(".../images/v60_1071.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1542,7 +1542,7 @@ body {
 /* .main_60_1072 {
     width: 97px;
     height: 156px;
-    background: url("../images/v60_1072.png");
+    background: url(".../images/v60_1072.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1557,7 +1557,7 @@ body {
 /* .main_60_1073 {
     width: 97px;
     height: 130px;
-    background: url("../images/v60_1073.png");
+    background: url(".../images/v60_1073.png");
     opacity: 1;
     position: absolute;
     top: 24px;
@@ -1591,7 +1591,7 @@ body {
 .main_88_712 {
     width: 100%;
     height: 484px;
-    background: url("../images/v88_712.png");
+    background: url(".../images/v88_712.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1605,7 +1605,7 @@ body {
 .main_88_713 {
     width: 100%;
     height: 42px;
-    background: url("../images/v88_713.png");
+    background: url(".../images/v88_713.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1662,7 +1662,7 @@ body {
 .main_88_718 {
     width: 100%;
     height: 210px;
-    background: url("../images/v88_718.png");
+    background: url(".../images/v88_718.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1689,7 +1689,7 @@ body {
 .main_88_720 {
     width: 690px;
     height: 210px;
-    background: url("../images/v88_720.png");
+    background: url(".../images/v88_720.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1783,7 +1783,7 @@ body {
 .main_60_2393 {
     width: 100%;
     height: 137px;
-    background: url("../images/v60_2393.png");
+    background: url(".../images/v60_2393.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1811,7 +1811,7 @@ body {
 .main_104_507 {
     width: 278px;
     height: 141px;
-    background: url("../images/v104_507.png");
+    background: url(".../images/v104_507.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1825,7 +1825,7 @@ body {
 .main_104_508 {
     width: 65px;
     height: 65px;
-    background: url("../images/v104_508.png");
+    background: url(".../images/v104_508.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1865,7 +1865,7 @@ body {
 .main_104_511 {
     width: 849px;
     height: 54px;
-    background: url("../images/v104_511.png");
+    background: url(".../images/v104_511.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1879,7 +1879,7 @@ body {
 .main_104_512 {
     width: 439px;
     height: 54px;
-    background: url("../images/v104_512.png");
+    background: url(".../images/v104_512.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1904,7 +1904,7 @@ body {
 .main_104_514 {
     width: 28px;
     height: 28px;
-    background: url("../images/v104_514.png");
+    background: url(".../images/v104_514.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1954,7 +1954,7 @@ body {
 .main_104_518 {
     width: 22px;
     height: 19px;
-    background: url("../images/v104_518.png");
+    background: url(".../images/v104_518.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -1978,7 +1978,7 @@ body {
 .main_104_520 {
     width: 13px;
     height: 7px;
-    background: url("../images/v104_520.png");
+    background: url(".../images/v104_520.png");
     opacity: 1;
     position: absolute;
     top: 0px;
@@ -2054,7 +2054,7 @@ body {
 .main_104_528 {
     width: 381px;
     height: 24px;
-    background: url("../images/v104_528.png");
+    background: url(".../images/v104_528.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;

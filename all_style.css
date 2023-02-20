@@ -17,7 +17,7 @@ body{
 .logo {
     width: 278px;
     height: 141px;
-    background-image: url(/images/logo.png);
+    background-image: url(./images/logo.png);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -66,7 +66,7 @@ body{
     position: absolute;
     top: 7px;
     left: 11px;
-    background-image: url(/images/profile_person.png);
+    background-image: url(./images/profile_person.png);
 
 }
 
@@ -237,7 +237,7 @@ body{
     position: absolute;
     top: 18px;
     left: 348px;
-    background-image: url(/images/search.png);
+    background-image: url(./images/search.png);
 }
 
 .v83_660 {
@@ -249,7 +249,7 @@ body{
     top: 12px;
     left: 8px;
     overflow: hidden;
-    background-image: url(/images/gps.png);
+    background-image: url(./images/gps.png);
 }
 
 .v83_661 {
@@ -588,7 +588,7 @@ body{
     top: 22px;
     left: 19px;
     overflow: hidden;
-    background-image: url(/images/back_button.png);
+    background-image: url(./images/back_button.png);
     background-repeat: no-repeat;
 }
 
